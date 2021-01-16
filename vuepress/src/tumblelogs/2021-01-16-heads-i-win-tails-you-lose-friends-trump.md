@@ -13,7 +13,7 @@ pageClass: tumblelog
 type: post
 tags:
 - Comedy
-- US elections
+- US Elections
 ---
 
 Heads, I win. Tails, you lose.
