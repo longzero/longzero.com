@@ -26,4 +26,6 @@ And people believe him.
 
 Too much stupidité.
 
-https://youtu.be/QVCmWVD-NH4
+<div class="video-wrapper">
+  <iframe width="500" height="281" src="https://www.youtube.com/embed/QVCmWVD-NH4?feature=oembed" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
+</div>
